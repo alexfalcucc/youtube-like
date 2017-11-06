@@ -1,6 +1,6 @@
 # Youtube project
 
-Youtube project it's a youtube like app built in node.js, React and Redux. The porpuse of this repo it's just self learning.
+Youtube project it's a youtube like app built in node.js, React and Redux. The purpose of this repo it's just self-learning.
 
 ## Getting Started
 
