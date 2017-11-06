@@ -1,6 +1,6 @@
-# You-tube project
+# Youtube project
 
-You-tube project it's a youtube like app built in node.js, React and Redux.
+Youtube project it's a youtube like app built in node.js, React and Redux. The porpuse of this repo it's just self learning.
 
 ## Getting Started
 
