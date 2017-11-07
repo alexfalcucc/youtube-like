@@ -34,6 +34,7 @@ app.route('/api/v1/videos')
   .post((req, res) => {
     // Push a new video to the DB
     const video = Object.assign({}, req.body, { id: db.length });
+    console.log(video);
     db.push(video);
     res.json({ message: 'Successfully added!' });
   });
