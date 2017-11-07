@@ -11,11 +11,11 @@ import { Home, Add } from 'containers';
 // App routes
 const Routes = (
   <Router history={hashHistory}>
-  <Route path="/" component={Layout}>
-  {/* IndexRoute renders Home container by default */}
-  <IndexRoute component={Home} />
-  <Route path="Add" component={Add} />
-  </Route>
+    <Route path="/" component={Layout}>
+      {/* IndexRoute renders Home container by default */}
+      <IndexRoute component={Home} />
+      <Route path="Add" component={Add} />
+    </Route>
   </Router>
 );
 
