@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "React&Redux youtube like app.",
   "main": "server.js",
-  "repository": "https://github.com/samuxyz/react-youtube.git",
-  "author": "samuxyz <zaza.samuele@gmail.com>",
+  "repository": "https://github.com/alexfalcucc/youtube-like.git",
+  "author": "Alexsander Falcucci <alex.falcucc@gmail.com>",
   "license": "MIT",
   "scripts": {
     "watch-dev": "NODE_ENV=development webpack-dev-server --hot --inline",
